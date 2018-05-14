@@ -18,8 +18,9 @@ Please get it [the official shop](https://plen.jp/shop) or create it yourself.
 
 
 ## Copyright (c) 2015,
-- [Kazuyuki TAKASE](https://github.com/Guvalif)
 - [PLEN Project Company Inc.](https://plen.jp)
+- Naohiro HAYAISHI
+- [Kazuyuki TAKASE](https://github.com/Guvalif)
 
 ### Special Thanks :)
 - [Laura Domine](https://github.com/Temigo): Contributed to do API guide localization.
